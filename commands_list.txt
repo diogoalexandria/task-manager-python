@@ -1,0 +1,5 @@
+ === Rodar Testes ===
+ -> python -m pytest
+
+ === Rodar app dev ===
+ -> uvicorn --reload task_manager.manager:app
